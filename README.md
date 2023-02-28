@@ -1,2 +1,2 @@
-# dkargapolov.github.io
-site project hello
+# мысли джокира
+капец я умный
